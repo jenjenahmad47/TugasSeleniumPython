@@ -1,0 +1,9 @@
+Test Case
+
+Step                                Expected
+1. Open Chrome                      Succesfully opened Chrome to start the test
+2. Maximize Chrome                  Succesfully maximized Chrome
+3. Disable infobars and extensions  Infobars and extensions successfully disabled
+4. Visit Sanbercode's URL           Sanbercode's page appear successfully
+5. Wait for 20 seconds              The Chrome won't be closed for 20 seconds
+6. Close Chrome                     Chrome closed and the test is finished
