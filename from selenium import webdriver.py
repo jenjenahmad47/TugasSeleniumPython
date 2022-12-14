@@ -6,7 +6,7 @@ from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
 import time  
 
-print("Test case started")
+print("Test case now started")
 options = webdriver.ChromeOptions()
 options.add_argument("start-maximized");
 options.add_argument("disable-infobars")
